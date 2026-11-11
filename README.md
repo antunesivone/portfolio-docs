@@ -15,3 +15,5 @@ Documentação pública dos projetos do [portfólio de Ivone Antunes](https://an
 - [AgroTanque — Controle de Abastecimento de Frota Rural](agrotanque/README.md)
 - [PesaCampo — Check-in e Pesagem Automatizada](pesacampo/README.md)
 - [Gestão Saúde — Portal de Saúde](gestao-saude/README.md)
+- [Lookbook — Previsão do Tempo + Guia de Looks e Viagens](previsao-ia/README.md)
+- [Rumo — Matching de Cursos por Swipe](rumo/README.md)
